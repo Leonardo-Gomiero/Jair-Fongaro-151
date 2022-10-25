@@ -4004,7 +4004,37 @@ input, select, textarea {
 		list-style-type: none;
 	}
 
-	.col-4{
+	.col-4 {
+		align-items: center;
+		text-align: center;
+		align-content: center;
+	}
+
+	.col-4-large{
+		align-items: center;
+		text-align: center;
+		align-content: center;
+	}
+
+	.col-4-medium{
+		align-items: center;
+		text-align: center;
+		align-content: center;
+	}
+
+	.col-4-small{
+		align-items: center;
+		text-align: center;
+		align-content: center;
+	}
+
+	.col-4-xlarge{
+		align-items: center;
+		text-align: center;
+		align-content: center;
+	}
+
+	.col-4-xsmall{
 		align-items: center;
 		text-align: center;
 		align-content: center;
