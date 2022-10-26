@@ -4039,3 +4039,8 @@ input, select, textarea {
 		text-align: center;
 		align-content: center;
 	}
+
+	.titulo{
+		font-size: "30";
+		
+	}
